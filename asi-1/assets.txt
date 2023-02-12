@@ -1,0 +1,39 @@
+colors
+
+#212614
+#b7832f
+#707070
+#fff
+
+font-sizes
+
+h1: 3rem
+h2: 1.5rem
+body: 1.125rem
+
+layout 
+max-width:980px
+
+
+
+
+Let's start getting little more fancy!!!
+
+Dolor sit
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit officia, repellendus aliquid consequatur provident labore. Nulla similique eos molestiae ea! Sit ex et, veritatis voluptatum, itaque unde molestias ut, explicabo aspernatur dolor cum aut temporibus!
+
+Lorem ipsum dolor
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, fugit! Aliquam corrupti ratione ad modi deleniti animi repudiandae aliquid velit dolorum blanditiis, non obcaecati magnam, quae architecto optio quasi dolores perspiciatis officiis dicta enim accusamus earum neque. Repudiandae modi in illum necessitatibus perferendis est, quaerat natus exercitationem consequatur harum iure.rerum ducimus a voluptatum reiciendis sit fugiat suscipit debitis! A, dolor.
+
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis ducimus, facere, optio suscipit, iusto quasi modi debitis similique in commodi cupiditate nihil repellat eos fuga temporibus libero porro ad veritatis? Laborum, id. Laboriosam dolor adipisci illo exercitationem, recusandae eveniet dolorum!
+
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere dicta quo magni nulla nesciunt modi ducimus nisi earum delectus temporibus impedit recusandae voluptatem mollitia culpa, hic, quod debitis quam a ullam aperiam quae architecto! Quos earum, inventore reprehenderit assumenda dolores at rerum sed voluptatum dignissimos et, nobis aliquam doloribus in.
+
+Lorem ipsum dolor sit, amet consectetur
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore cupiditate modi tenetur atque, consequuntur eveniet optio vitae assumenda amet laboriosam nequerepudiandae eum! Quia hic, rem perferendis ratione ipsum soluta dolorem eveniet eius culpa deleniti,ut esse vero ullam distinctio in.
+
+
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta sed expedita vel quia libero laboriosam aliquid eaque, magnam laborum fuga.
