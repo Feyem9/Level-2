@@ -1,0 +1,14 @@
+.button{
+    background-color: $mainRed;
+    padding: 1.3rem 3.1rem;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 2rem;
+
+    &:hover{
+        color: rgb(255, 0, 0);
+        background-color: rgb(17, 0, 255);
+}
+}
